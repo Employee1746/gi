@@ -1,2 +1,4 @@
 Hello world!!!
 Line from user1
+
+Line from user1 rebase
